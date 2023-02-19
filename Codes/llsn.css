@@ -1,0 +1,42 @@
+.llsn1{
+color: #990000;
+font-family: Bradley Hand ITC;
+font-size: 20px;
+}
+
+.llsn2{
+  color: #990000;
+  text-align: center;
+  font-family: Bradley Hand ITC;
+  font-size: 22px;
+  }
+  
+.llsn3{
+    color: black;
+    text-align: center;
+    font-family: Baskerville Old Face;
+    font-size: 25px;
+    } 
+
+.llsn4{
+  margin:auto;
+}
+
+.llsn5{
+  float:left;
+  padding:0 10px 10px 0;
+  margin-right: 2%;
+}
+
+.llsn6{
+  color: black;
+  font-family: Baskerville Old Face;
+  font-size: 25px;
+}
+
+.llsn7{
+  float:right;
+  padding:0 10px 10px 0;
+  margin-left: 2%;
+  border-radius: 10%;
+}
